@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "113006381018",
+    "project_id": "test-appi-eef4c",
+    "storage_bucket": "test-appi-eef4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113006381018:android:aedee79a1d4da97a24e2e3",
+        "android_client_info": {
+          "package_name": "com.roopes.test_appi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOdCAh0UWEFtFtMem3eg12CsdeAHeGkaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
